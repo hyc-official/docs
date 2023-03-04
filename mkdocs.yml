@@ -1,0 +1,22 @@
+site_name: Heyc Project Docs
+theme:
+    name: material
+    language: zh
+    palette:
+        primary: white
+    features:
+        - content.action.view
+        - navigation.instant
+        - navigation.tabs
+markdown_extensions:
+    - admonition
+    - pymdownx.details
+    - pymdownx.superfences
+repo_url: https://github.com/hyc-official/wiki
+edit_uri: edit/master/docs/
+nav:
+    - '首页': 'index.md'
+    - 'LGSE':
+        - '首页': 'LGSE/index.md'
+        - '安装': 'LGSE/install.md'
+        - '开发者': 'LGSE/developers.md'
