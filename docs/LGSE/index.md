@@ -1,4 +1,4 @@
-# LGSE
+# Luogu Show Emoji
 
 [![](https://socialify.git.ci/hyc-official/LuoguShowEmoji/image?description=1&descriptionEditable=Show%20QQ%20Emoji%20in%20Luogu.&font=Inter&forks=1&issues=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Light)](https://github.com/hyc-official/LuoguShowEmoji)
 

@@ -18,5 +18,9 @@ nav:
     - '首页': 'index.md'
     - 'LGSE':
         - '首页': 'LGSE/index.md'
+        - '功能介绍': 'LGSE/usage.md'
         - '安装': 'LGSE/install.md'
         - '开发者': 'LGSE/developers.md'
+    - 'Startpage':
+        - '首页': 'Startpage/index.md'
+        - '功能介绍': 'Startpage/usage.md'
