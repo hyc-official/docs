@@ -12,7 +12,7 @@ markdown_extensions:
     - admonition
     - pymdownx.details
     - pymdownx.superfences
-repo_url: https://github.com/hyc-official/wiki
+repo_url: https://github.com/hyc-official/docs
 edit_uri: edit/master/docs/
 nav:
     - '首页': 'index.md'
